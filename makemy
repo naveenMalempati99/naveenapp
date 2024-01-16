@@ -1,0 +1,217 @@
+style {
+}
+<style>
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+<style>
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+<style>
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+<style>
+*, html {
+    box-sizing: border-box;
+}
+<style>
+*, html {
+    box-sizing: border-box;
+}
+*, html {
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+user agent stylesheet
+label {
+    cursor: default;
+}
+<style>
+.hsw .hsw_inputBox {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    margin-right: 5px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    position: relative;
+}
+style attribute {
+    --bg-value: url(//imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/bg6.jpg);
+    background-size: 100% 571px;
+}
+<style>
+html[dir='ltr'] body {
+    font-family: var(--font-family);
+}
+<style>
+html[dir='ltr'] body {
+    font-family: var(--font-family);
+}
+html[dir=ltr] body {
+    font-family: var(--font-family);
+}
+<style>
+html, body {
+    background: #f2f2f2;
+    padding: 0;
+    margin: 0;
+    color: #4a4a4a;
+    font-size: 14px;
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+<style>
+html, body {
+    background: #f2f2f2;
+    padding: 0;
+    margin: 0;
+    color: #4a4a4a;
+    font-size: calc(var(--font-scale, 1) * 14px);
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+body, div#footer {
+    font-family: Almarai,Arial,Helvetica,sans-serif;
+}
+body, html {
+    background: #f2f2f2;
+    padding: 0;
+    margin: 0;
+    color: #4a4a4a;
+    font-size: calc(var(--font-scale,1) * 14px);
+    font-family: var(--font-family);
+    font-weight: 400;
+}
+style attribute {
+    --font-scale: 1;
+}
+<style>
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+<style>
+:root {
+    --color-primary: #008cff;
+    --color-btn-primary-bg: linear-gradient(93deg, #53b2fe, #065af3);
+    --color-btn-primary-text: #ffffff;
+    --color-link-primary: #008cff;
+    --color-slider-track: #008cff;
+    --font-family: 'Mukta', 'Lato', sans-serif;
+    --font-family-heading: 'Mukta', 'Lato', sans-serif;
+    --btn-border-radius: 34px;
+}
+<style>
+:root {
+    --color-primary: #008cff;
+    --color-btn-primary-bg: linear-gradient(93deg, #53b2fe, #065af3);
+    --color-btn-primary-text: #ffffff;
+    --color-link-primary: #008cff;
+    --color-slider-track: #008cff;
+    --btn-border-radius: 34px;
+}
+<style>
+:root {
+    --borderWidth: 2px;
+    --height: 10px;
+    --width: 5px;
+    --borderColor: #4a4a4a;
+}
+<style>
+:root {
+    --color-primary: #008cff;
+    --color-btn-primary-bg: linear-gradient(93deg, #53b2fe, #065af3);
+    --color-btn-primary-text: #fff;
+    --color-btn: #008cff;
+    --btn-border-radius: 4px;
+}
+:root {
+    --animate-duration: 1s;
+    --animate-delay: 1s;
+    --animate-repeat: 1;
+}
+:root {
+    --color-primary: #008cff;
+    --color-btn-primary-bg: linear-gradient(93deg, #53b2fe, #065af3);
+    --color-btn-primary-text: #ffffff;
+    --color-link-primary: #008cff;
+    --color-slider-track: #008cff;
+    --btn-border-radius: 34px;
+}
+:root {
+    --borderWidth: 2px;
+    --height: 10px;
+    --width: 5px;
+    --borderColor: #4a4a4a;
+}
+:root {
+    --color-primary: #008cff;
+    --color-btn-primary-bg: linear-gradient(93deg,#53b2fe,#065af3);
+    --color-btn-primary-text: #fff;
+    --color-btn: #008cff;
+    --btn-border-radius: 4px;
+}
+:root {
+    --font-scale: 1;
+    --font-family: 'Lato', sans-serif;
+    --font-family-heading: 'Lato', sans-serif;
+}
+
+box-sizing border-box
+color rgb(74, 74, 74)
+cursor default
+display block
+font-family Mukta, Lato, sans-serif
+font-size 14px
+font-weight 400
+height 17px
+list-style-image none
+list-style-position outside
+list-style-type none
+margin-block-end 0px
+margin-block-start 0px
+margin-bottom 0px
+margin-inline-end 0px
+margin-inline-start 0px
+margin-left 0px
+margin-right 0px
+margin-top 0px
+padding-bottom 0px
+padding-left 0px
+padding-right 0px
+padding-top 0px
+width 344px
+-webkit-box-direction normal
+Rendered Fonts
+Lato—Network resource(5 glyphs)
